@@ -1,0 +1,55 @@
+Python                                                                            C
+1) Python developed by Guido Van Rossum.                                     |   1) C developed by Dennis Ritchie.
+2) Python released in 1991.                                                  |   2) C first version is released in 1972.
+3) Python is considered one of the easiest language and easy to learn.       |   3) C is bit difficult to learn because it require to buid many things from scratch.
+4) Python is high level programming language that converts machine code      |   4) C id middle level language which bridge gap between high and low level progamming     
+   using interpreter.                                                        |      language.
+5) Python is multi purpose language which supports to procedural, imperative |   5) C is procedural programming language.
+   functional, and object oriented languages.
+
+
+Python                                  |                             C++
+1. Python emphasizes readability and simplicity                          |     1. C++ focus on performance and low level control.
+2. Python is dynamically typed.                                          |     2. C++ is statically typed.
+3. Python has automatic memory maagement (garbage collection).           |     3. C++ need manual memory management.
+4. Python is interpreted language.                                       |     4. C++ is compiled language.
+5. Python has extensive libraries and framework for various tasks,       |     5. C++ has more limited libraries but powerful standard libraries.
+   it highly effective for development.                                  | 
+6. Python code is short and easier to write.                             |     6. c++ is little bit harder to write than Python.
+7. Python is widely used in data analytics, web development and          |     7. C++ is commonly used in system programming, game development and  
+   scripting.                                                            |       performace - critical application.
+8. Python's dynamic nature allow for faster prototyping and easier       |     8. C++ offers stronger type checking and can catch errors at compile time.  
+   debugging                                                             |
+9. Python is begineer friendly and has a shallower learning curve        |     9. C++ is considered more complex and demanding master.  
+   compared to C++                                                       |
+
+
+
+Python	                                                                     Java
+Python has simple and easy syntax.                                         	Java has more complex and lengthy syntax.
+Python is an interpreted language.	                                        Java is a compiled language (bytecode + JVM).
+Python is slower in execution speed.	                                      Java is faster than Python.
+Python is mainly used in AI, Data Science, Automation, and scripting.      	Java is mainly used in enterprise applications, Android apps, and large systems.
+Python uses dynamic typing (no need to declare variable type).	            Java uses static typing (variable type must be declared).
+Python code is shorter and requires fewer lines.	                          Java code is longer and more structured.
+Python is popular in agile and DevOps because it is simple, flexible, and helps developers work faster.          Java provides better support for refactoring (improving code without changing output) because Java has a strict type system and powerful IDE tools that make code changes safer and easier.
+
+Python is popular in agile and DevOps because it is simple, flexible, and helps developers work faster.              Java provides better support for refactoring (improving code without changing output) because Java has a strict type system and powerful IDE tools that make code changes safer and easier.
+
+Python supports multiple Inheritance.                                          Java partially supports Multiple Inheritance through interfaces.
+
+
+# Machine Code vs Byte Code
+
+| Machine Code                                               | Byte Code                                                          |
+| ---------------------------------------------------------- | ------------------------------------------------------------------ |
+| Machine code is directly understood by the computer’s CPU. | Byte code is an intermediate code understood by a virtual machine. |
+| It runs directly on hardware.                              | It needs a virtual machine like JVM to run.                        |
+| It is very fast.                                           | It is slower than machine code.                                    |
+| It is machine-dependent.                                   | It is platform-independent.                                        |
+| Generated after final compilation.                         | Generated before machine code.                                     |
+| Example: C language compiled output.                       | Example: Java bytecode (`.class` files).                           |
+ In Easy Words
+
+* **Machine Code** = Final language that computer hardware understands directly.
+* **Byte Code** = Middle-level code that first goes to a virtual machine, then runs on the computer.
